@@ -20,7 +20,7 @@ public class ApiController {
     public Person json(Person person) {
         return person;
     }
-
+    
     @GetMapping("/api/map")
     public HashMap<String, Object> map(@RequestParam HashMap<String, Object> map) {
         return map;
