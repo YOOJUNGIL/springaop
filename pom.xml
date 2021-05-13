@@ -16,6 +16,9 @@
     <name>springbuild</name>
     <description>Demo project for Spring Boot</description>
     
+    <!-- deploy format. 20200502 -->
+	<packaging>jar</packaging>
+    
     <properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
